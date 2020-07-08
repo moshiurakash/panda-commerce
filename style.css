@@ -19,3 +19,24 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1{
+    background-image: linear-gradient(to right, orange 20%, gold 80%);
+    border-radius: 8px;
+    padding: 10px 30px;
+}
+.cat2{
+    background-image: linear-gradient(to right, mediumvioletred 20%, deeppink 80%);
+    border-radius: 8px;
+    padding: 10px 30px;
+}
+.cat3{
+    background-image: linear-gradient(to right, blue 20%, darkblue 80%);
+    border-radius: 8px;
+    padding: 10px 30px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
